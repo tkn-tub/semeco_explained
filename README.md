@@ -24,5 +24,6 @@ Fig. 1: Illustration of a Protrophic cell used in the SeMeCo experiment.
 <a name="fn1">[1]</a>: K. Campbell et al., “Self-establishing communities enable cooperative metabolite exchange in a eukaryote,” eLife, vol. 4, p. e09943, Oct. 2015.
 .
 [Link to paper in Nature Microbiology](https://www.nature.com/articles/s41564-022-01072-5)
+
 <a name="fn1">[2]</a>: K. Campbell, C. Correia-Melo, and M. Ralser, “Self-Establishing Communities: A Yeast Model to Study the Physiological Impact of Metabolic Cooperation in Eukaryotic Cells,” in Yeast Systems Biology: Methods and Protocols, S. G. Oliver and J. I. Castrillo, Eds., New York, NY: Springer, 2019, pp. 263–282.
 [Link to book chapter in Springer Nature Link](https://link.springer.com/protocol/10.1007/978-1-4939-9736-7_16)
