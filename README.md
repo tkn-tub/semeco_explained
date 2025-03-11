@@ -5,7 +5,7 @@ This repository provides code implementation for explainning the metabolic inter
 Each folder stores the following:
 
 - `Slides`: A theoretical description of this research.
-
+- `docear`: Concept maps related to main topics in SeMeCo and cooperative models.
 - `figures`: Most illustrative figures referred in this research. 
     
 <figure>
