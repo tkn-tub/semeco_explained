@@ -1,0 +1,12 @@
+<project name="SeMeCo" version="docear 1.0" ID="194DB44A387ATZLEQ3QF32K6QIXFESH782MQ">
+<folder type="library" name="Library">
+<link type="literature_annotations" name="Literature &amp; Annotations" path="project://194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/_data/194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/default_files/literature_and_annotations.mm"/>
+<link type="file" name="Temp" path="project://194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/_data/194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/default_files/temp.mm" system="true"/>
+<link type="file" name="Trash" path="project://194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/_data/194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/default_files/trash.mm" system="true"/>
+</folder>
+<folder type="physical" name="My drafts" path="project://194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/_data/194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/My%20Drafts/"/>
+<folder type="literature_repository" name="Literature repository" system="true">
+<folder type="repository_path" name="default" path="file:/D:/papers/game2024cell/docear//literature_repository"/>
+</folder>
+<link type="references" name="References" path="project://194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/_data/194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/default_files/SeMeCo.bib" system="true"/>
+</project>
