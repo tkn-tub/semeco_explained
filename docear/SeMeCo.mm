@@ -57,9 +57,7 @@
 <attribute NAME="year" VALUE="2022"/>
 <attribute NAME="title" VALUE="{Microbial communities form rich extracellular metabolomes that foster metabolic interactions and promote drug tolerance}"/>
 <attribute NAME="authors" VALUE="Yu, Jason S. L. and Correia-Melo, Clara and Zorrilla, Francisco and Herrera-Dominguez, Luc{\&apos;{i}}a and Wu, Mary Y. and Hartl, Johannes and Campbell, Kate and Blasche, Sonja and Kreidl, Marco and Egger, Anna-Sophia and Messner, Christoph B. and Demichev, Vadim and Freiwald, Anja and M{\&quot;{u}}lleder, Michael and Howell, Michael and Berman, Judith and Patil, Kiran R. and Alam, Mohammad Tauqeer and Ralser, Markus"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="324B93397A6DC4DCA0EF3167F493F72912C7F27723847E62D571AD6B8DF955">
-    <pdf_title>Microbial communities form rich extracellular metabolomes that foster metabolic interactions and promote drug tolerance</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="324B93397A6DC4DCA0EF3167F493F72912C7F27723847E62D571AD6B8DF955"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="HEADINGS"/>
 <richcontent TYPE="NOTE">
 
@@ -81,7 +79,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="metabolism and cell physiology" POSITION="right" ID="ID_1376326938" CREATED="1738845935066" MODIFIED="1739796470751">
 <edge COLOR="#ff0000"/>
@@ -90,9 +87,7 @@
 <attribute NAME="year" VALUE="2014"/>
 <attribute NAME="title" VALUE="Amino {Acid} {Permeases} and their {In&#xfb02;uence} on {Flavour} {Compounds} in {Beer}"/>
 <attribute NAME="authors" VALUE="James, N and Stahl, U"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CA391FB3821DFC3E53C1845092AB22A9B6DC2B9484651B4C72B4C2CFA23F94">
-    <pdf_title>Amino Acid Permeases and their Infl uence on Flavour Compounds in Beer</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CA391FB3821DFC3E53C1845092AB22A9B6DC2B9484651B4C72B4C2CFA23F94"/>
 </node>
 <node TEXT="Segregation" ID="ID_351271461" CREATED="1741506047507" MODIFIED="1741506050927">
 <node TEXT="christianson1992multifunctional" ID="ID_1473675921" CREATED="1741506063617" MODIFIED="1741506326777" LINK="file:/C:/Users/jorge/Zotero/storage/87DCBEHV/Christianson%20et%20al.%20-%201992%20-%20Multifunctional%20yeast%20high-copy-number%20shuttle%20vec.pdf">
@@ -101,9 +96,7 @@
 <attribute NAME="year" VALUE="1992"/>
 <attribute NAME="title" VALUE="Multifunctional yeast high-copy-number shuttle vectors"/>
 <attribute NAME="authors" VALUE="Christianson, Thomas W. and Sikorski, Robert S. and Dante, Michael and Shero, James H. and Hieter, Philip"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="771053A86F5E748C2395666C436E761596136C053EDC4C1EE2B5C97686A43">
-    <pdf_title>Multifunctional yeast high-copy-number shuttle vectors</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="771053A86F5E748C2395666C436E761596136C053EDC4C1EE2B5C97686A43"/>
 </node>
 <node TEXT="ghosh2007faithful" ID="ID_1236112052" CREATED="1741506977362" MODIFIED="1741506999367" LINK="file:/C:/Users/jorge/Zotero/storage/VSDN9PHH/Ghosh%20et%20al.%20-%202007%20-%20Faithful%20segregation%20of%20the%20multicopy%20yeast%20plasmi.pdf">
 <attribute NAME="key" VALUE="ghosh2007faithful"/>
@@ -111,9 +104,7 @@
 <attribute NAME="year" VALUE="2007"/>
 <attribute NAME="title" VALUE="Faithful segregation of the multicopy yeast plasmid through cohesin-mediated recognition of sisters"/>
 <attribute NAME="authors" VALUE="Ghosh, Santanu K. and Hajra, Sujata and Jayaram, Makkuni"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="2EA6FD3AF6C0F1EFF26082FADF78561D0CFB1D635316D2FD72FFDE5ADF839">
-    <pdf_title>Faithful segregation of the multicopy yeast plasmid through cohesin-mediated recognition of sisters</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="2EA6FD3AF6C0F1EFF26082FADF78561D0CFB1D635316D2FD72FFDE5ADF839"/>
 </node>
 </node>
 <node TEXT="zelezniak2015metabolic" ID="ID_1716337931" CREATED="1739094868365" MODIFIED="1739833268694" LINK="project://194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/../../../../../../home/jorge/Downloads/zelezniak-et-al-2015-metabolic-dependencies-drive-species-co-occurrence-in-diverse-microbial-communities.pdf">
@@ -146,9 +137,7 @@
 <attribute NAME="year" VALUE="2015"/>
 <attribute NAME="title" VALUE="Using {Genome}-{Scale} {Models} to {Predict} {Biological} {Capabilities}"/>
 <attribute NAME="authors" VALUE="O&#x2019;Brien, Edward J. and Monk, Jonathan M. and Palsson, Bernhard O."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D7A0C75D34D093A79BC74566A40FDFE941A4B5FEC91F46774BEFDDEC8">
-    <pdf_title>HHS Public Access</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D7A0C75D34D093A79BC74566A40FDFE941A4B5FEC91F46774BEFDDEC8"/>
 <node TEXT="SeMeCo_9009838301711337446.png" ID="ID_919971035" CREATED="1741257644273" MODIFIED="1741257644273">
 <hook URI="project://194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/SeMeCo_9009838301711337446.png" SIZE="0.4192872" NAME="ExternalObject"/>
 </node>
@@ -162,25 +151,19 @@
 <attribute NAME="year" VALUE="2014"/>
 <attribute NAME="title" VALUE="Syntrophic exchange in synthetic microbial communities"/>
 <attribute NAME="authors" VALUE="Michael T. Mee and James J. Collins and George M. Church and Harris H. Wang"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CF62826A090548FDFC89BB033B0807B1C21C9AE636CD71CB37F28085CC183E">
-    <pdf_title>Michael T. Mee , James J. Collins , George M. Church , and Harris H. Wang</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CF62826A090548FDFC89BB033B0807B1C21C9AE636CD71CB37F28085CC183E"/>
 </node>
 <node TEXT="wang2020metabolite" ID="ID_1249251713" CREATED="1739795460408" MODIFIED="1739795791504" LINK="file:/C:/Users/jorge/Zotero/storage/LXYUNRRQ/Wang%20et%20al.%20-%202020%20-%20Metabolite%20sensing%20and%20signaling%20in%20cancer.pdf">
 <attribute NAME="key" VALUE="wang2020metabolite"/>
 <attribute NAME="title" VALUE="Metabolite sensing and signaling in cancer"/>
 <attribute NAME="authors" VALUE="Wang, Yi-Ping and Li, Jin-Tao and Qu, Jia and Yin, Miao and Lei, Qun-Ying"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="38121AFCD2C4B957CA49885E59BD8B83A473D95D77A41691D08EA83D9F30957">
-    <pdf_title>Metabolite sensing and signaling in cancer</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="38121AFCD2C4B957CA49885E59BD8B83A473D95D77A41691D08EA83D9F30957"/>
 </node>
 <node TEXT="pinu2018metabolite" ID="ID_489244321" CREATED="1739795824254" MODIFIED="1739795979311" LINK="file:/C:/Users/jorge/Zotero/storage/NZFHQVJK/Pinu%20et%20al.%20-%202018%20-%20Metabolite%20secretion%20in%20microorganisms%20the%20theory.pdf">
 <attribute NAME="key" VALUE="pinu2018metabolite"/>
 <attribute NAME="title" VALUE="Metabolite secretion in microorganisms: the theory of metabolic overflow put to the test"/>
 <attribute NAME="authors" VALUE="Pinu, Farhana R. and Granucci, Ninna and Daniell, James and Han, Ting-Li and Carneiro, Sonia and Rocha, Isabel and Nielsen, Jens and Villas-Boas, Silas G."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="90DE9729EF3B4F87DE86EE42D0F4E7E7F7B22B6B2A9CB718FC0C74E105DE2E3">
-    <pdf_title>Metabolite secretion in&#xffa0;microorganisms: the&#xffa0;theory of&#xffa0;metabolic overflow put to&#xffa0;the&#xffa0;test</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="90DE9729EF3B4F87DE86EE42D0F4E7E7F7B22B6B2A9CB718FC0C74E105DE2E3"/>
 </node>
 <node TEXT="campbell2015self" ID="ID_239333819" CREATED="1741423786976" MODIFIED="1741424057075" LINK="file:/C:/Users/jorge/Zotero/storage/QQ8Z7UES/Campbell%20et%20al.%20-%202015%20-%20Self-establishing%20communities%20enable%20cooperative%20m.pdf">
 <attribute NAME="key" VALUE="campbell2015self-establishing"/>
@@ -188,9 +171,7 @@
 <attribute NAME="year" VALUE="2015"/>
 <attribute NAME="title" VALUE="Self-establishing communities enable cooperative metabolite exchange in a eukaryote"/>
 <attribute NAME="authors" VALUE="Campbell, Kate and Vowinckel, Jakob and M&#xfc;lleder, Michael and Malmsheimer, Silke and Lawrence, Nicola and Calvani, Enrica and Miller-Fleming, Leonor and Alam, Mohammad T and Christen, Stefan and Keller, Markus A and Ralser, Markus"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="86CEA16F5F1810EFD0DBBD5A1482D3F238E47DD128491727317FA6A2A7D0B5">
-    <pdf_title>Self-establishing communities enable cooperative metabolite exchange in a eukaryote</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="86CEA16F5F1810EFD0DBBD5A1482D3F238E47DD128491727317FA6A2A7D0B5"/>
 <richcontent TYPE="NOTE">
 
 <html>
@@ -211,9 +192,7 @@
 <attribute NAME="key" VALUE="douglas2020microbial"/>
 <attribute NAME="title" VALUE="The microbial exometabolome: ecological resource and architect of microbial communities"/>
 <attribute NAME="authors" VALUE="Douglas, Angela E."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="BC18AFC6C316FF62D48E7BB3B3BBFEED18C619C231BB24D4183A327B52E26">
-    <pdf_title>The microbial exometabolome: ecological resource and architect of microbial communities</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="BC18AFC6C316FF62D48E7BB3B3BBFEED18C619C231BB24D4183A327B52E26"/>
 <node TEXT="SeMeCo_5155031955731578946.png" ID="ID_1729893466" CREATED="1741104379160" MODIFIED="1741104379160" MOVED="1741104395033">
 <hook URI="project://194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/SeMeCo_5155031955731578946.png" SIZE="0.8759124" NAME="ExternalObject"/>
 </node>
@@ -222,17 +201,13 @@
 <attribute NAME="key" VALUE="blasche2021metabolic"/>
 <attribute NAME="title" VALUE="Metabolic cooperation and spatiotemporal niche partitioning in a kefir microbial community"/>
 <attribute NAME="authors" VALUE="Blasche, Sonja and Kim, Yongkyu and Mars, Ruben A. T. and Machado, Daniel and Maansson, Maria and Kafkia, Eleni and Milanese, Alessio and Zeller, Georg and Teusink, Bas and Nielsen, Jens and Benes, Vladimir and Neves, Rute and Sauer, Uwe and Patil, Kiran Raosaheb"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A7B1AB085B662E3469FB41F74472259E9FA7A5D47171176B2A6B264BB1F1D7">
-    <pdf_title>Metabolic cooperation and spatiotemporal niche partitioning in a kefir microbial community</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A7B1AB085B662E3469FB41F74472259E9FA7A5D47171176B2A6B264BB1F1D7"/>
 </node>
 <node TEXT="dsouza2018ecology" ID="ID_1126175060" CREATED="1739796403100" MODIFIED="1739796421211" LINK="file:/C:/Users/jorge/Zotero/storage/8XU3T72Y/D&apos;Souza%20et%20al.%20-%202018%20-%20Ecology%20and%20evolution%20of%20metabolic%20cross-feeding%20i.pdf">
 <attribute NAME="key" VALUE="dsouza2018ecology"/>
 <attribute NAME="title" VALUE="Ecology and evolution of metabolic cross-feeding interactions in bacteria"/>
 <attribute NAME="authors" VALUE="D&apos;Souza, Glen and Shitut, Shraddha and Preussger, Daniel and Yousif, Ghada and Waschina, Silvio and Kost, Christian"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5F502541ABD3E2742FB64D72B933AF93546C1541C6FA1B5B3DCEE799844D1B2">
-    <pdf_title>Natural Product Reports</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5F502541ABD3E2742FB64D72B933AF93546C1541C6FA1B5B3DCEE799844D1B2"/>
 <node TEXT="SeMeCo_9005867999525104810.png" ID="ID_1388492425" CREATED="1741104545465" MODIFIED="1741104545465">
 <hook URI="project://194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/SeMeCo_9005867999525104810.png" SIZE="1.0" NAME="ExternalObject"/>
 </node>
@@ -243,9 +218,7 @@
 <attribute NAME="year" VALUE="2023"/>
 <attribute NAME="title" VALUE="Cell-cell metabolite exchange creates a pro-survival metabolic environment that extends lifespan"/>
 <attribute NAME="authors" VALUE="Correia-Melo, Clara and Kamrad, Stephan and Teng&#xf6;lics, Roland and Messner, Christoph B. and Trebulle, Pauline and Townsend, StJohn and Varma, Sreejith Jayasree and Freiwald, Anja and Heineike, Benjamin M. and Campbell, Kate and Herrera-Dominguez, Luc&#xed;a and Aulakh, Simran Kaur and Szyrwiel, Lukasz and Yu, Jason S. L. and Zelezniak, Aleksej and Demichev, Vadim and M&#xfc;lleder, Michael and Papp, Bal&#xe1;zs and Alam, Mohammad Tauqeer and Ralser, Markus"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="68C6CAE2C8CC51F5F442DD6C33676EA2FFD27DA214FD8F22D225147E6B968D5">
-    <pdf_title>Cell-cell metabolite exchange creates a pro-survival metabolic environment that extends lifespan</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="68C6CAE2C8CC51F5F442DD6C33676EA2FFD27DA214FD8F22D225147E6B968D5"/>
 <richcontent TYPE="NOTE">
 
 <html>
@@ -290,9 +263,7 @@
 <attribute NAME="year" VALUE="2018"/>
 <attribute NAME="title" VALUE="Metabolite sensing and signaling in cell metabolism"/>
 <attribute NAME="authors" VALUE="Wang, Yi-Ping and Lei, Qun-Ying"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F4424924D97A75117431AA643F7BA84B2B5D3677C5C1BD30B874B11426F8E2">
-    <pdf_title>Metabolite sensing and signaling in cell metabolism</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F4424924D97A75117431AA643F7BA84B2B5D3677C5C1BD30B874B11426F8E2"/>
 </node>
 <node TEXT="chantranupong2015nutrient" ID="ID_1102017339" CREATED="1739830912531" MODIFIED="1739830969058" LINK="file:/C:/Users/jorge/Zotero/storage/D894TVX6/Chantranupong%20et%20al.%20-%202015%20-%20Nutrient-Sensing%20Mechanisms%20across%20Evolution.pdf">
 <attribute NAME="key" VALUE="chantranupong2015nutrient"/>
@@ -300,9 +271,7 @@
 <attribute NAME="year" VALUE="2015"/>
 <attribute NAME="title" VALUE="Nutrient-{Sensing} {Mechanisms} across {Evolution}"/>
 <attribute NAME="authors" VALUE="Chantranupong, Lynne and Wolfson, Rachel L. and Sabatini, David M."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FDC5E3A2A2D688B97D325494B1D58CBD778EAB45CBFA5CA34689CD908859">
-    <pdf_title>Nutrient-Sensing Mechanisms across Evolution</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FDC5E3A2A2D688B97D325494B1D58CBD778EAB45CBFA5CA34689CD908859"/>
 </node>
 <node TEXT="conrad2014nutrient" ID="ID_138427319" CREATED="1739866415773" MODIFIED="1739866604820" LINK="file:/C:/Users/jorge/Zotero/storage/ID6KDSIP/497611.html">
 <attribute NAME="key" VALUE="conrad2014nutrient"/>
@@ -321,9 +290,7 @@
 <attribute NAME="year" VALUE="2016"/>
 <attribute NAME="title" VALUE="Synthetic {Ecology} of {Microbes}: {Mathematical} {Models} and {Applications}"/>
 <attribute NAME="authors" VALUE="Zomorrodi, Ali R. and Segr&#xe8;, Daniel"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="85B63286DAFE626549E7BBAC8AB73EACF556787C6F1F86333AAEE984E45C10">
-    <pdf_title>HHS Public Access</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="85B63286DAFE626549E7BBAC8AB73EACF556787C6F1F86333AAEE984E45C10"/>
 </node>
 </node>
 <node TEXT="Explanations" POSITION="left" ID="ID_1134753941" CREATED="1739885281814" MODIFIED="1741425137680" MOVED="1739885318817">
@@ -372,9 +339,7 @@
   </body>
 </html>
 </richcontent>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C29F703C8C89A8E9452FF05C8FE0D27169C797B8707A7A5B4D3CD929C4298BE">
-    <pdf_title>The Genetical Evolution of Social Behaviour. I</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C29F703C8C89A8E9452FF05C8FE0D27169C797B8707A7A5B4D3CD929C4298BE"/>
 </node>
 <node TEXT="Game theory" ID="ID_702015367" CREATED="1741253869937" MODIFIED="1741254206325" MOVED="1741256359749"><richcontent TYPE="NOTE">
 
@@ -407,9 +372,7 @@
 <attribute NAME="year" VALUE="2014"/>
 <attribute NAME="title" VALUE="Evolutionary game theory: cells as players"/>
 <attribute NAME="authors" VALUE="Hummert, Sabine and Bohl, Katrin and Basanta, David and Deutsch, Andreas and Werner, Sarah and Thei&#xdf;en, G&#xfc;nter and Schroeter, Anja and Schuster, Stefan"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="77054653D5B8126F9F7B3157FC6AE62B2FA7B2AC0EB715CA4A24A24E29531">
-    <pdf_title>Molecular BioSystems</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="77054653D5B8126F9F7B3157FC6AE62B2FA7B2AC0EB715CA4A24A24E29531"/>
 </node>
 <node TEXT="frey2010evolutionary" ID="ID_1964926857" CREATED="1741255351065" MODIFIED="1741255362240" LINK="file:/C:/Users/jorge/Zotero/storage/BSG2VH55/Frey%20-%202010%20-%20Evolutionary%20game%20theory%20Theoretical%20concepts%20and.pdf">
 <attribute NAME="key" VALUE="frey2010evolutionary"/>
@@ -417,18 +380,14 @@
 <attribute NAME="year" VALUE="2010"/>
 <attribute NAME="title" VALUE="Evolutionary game theory: {Theoretical} concepts and applications to microbial communities"/>
 <attribute NAME="authors" VALUE="Frey, Erwin"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E17A4436CB54CEB6FA5346DE0E42740B26F6BF4C3A38B73B2B639AAFE9C7D">
-    <pdf_title>Theoretical Concepts and Applications to Microbial Communities</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E17A4436CB54CEB6FA5346DE0E42740B26F6BF4C3A38B73B2B639AAFE9C7D"/>
 </node>
 <node TEXT="nowak2006evolutionary" ID="ID_1430851535" CREATED="1741255125439" MODIFIED="1741255147020" LINK="file:/C:/Users/jorge/Zotero/storage/DB2HTFBF/Nowak%20-%202006%20-%20Evolutionary%20Dynamics%20Exploring%20the%20Equations%20of%20.pdf">
 <attribute NAME="key" VALUE="nowak2006evolutionary"/>
 <attribute NAME="year" VALUE="2006"/>
 <attribute NAME="title" VALUE="Evolutionary {Dynamics}: {Exploring} the {Equations} of {Life}"/>
 <attribute NAME="authors" VALUE="Nowak, Martin A."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="8AA39D996D8C5E1DDF1D64D6A471A2A5EDAC8F87176CEB651A090C9D19F153">
-    <pdf_title>Evolutionary Dynamics: Exploring the Equations of Life</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="8AA39D996D8C5E1DDF1D64D6A471A2A5EDAC8F87176CEB651A090C9D19F153"/>
 </node>
 </node>
 <node TEXT="Replicator equation" FOLDED="true" ID="ID_1153420380" CREATED="1741254236483" MODIFIED="1741255099179" LINK="file:/C:/Users/jorge/Zotero/storage/DB2HTFBF/Nowak%20-%202006%20-%20Evolutionary%20Dynamics%20Exploring%20the%20Equations%20of%20.pdf">
@@ -436,9 +395,7 @@
 <attribute NAME="year" VALUE="2006"/>
 <attribute NAME="title" VALUE="Evolutionary {Dynamics}: {Exploring} the {Equations} of {Life}"/>
 <attribute NAME="authors" VALUE="Nowak, Martin A."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="8AA39D996D8C5E1DDF1D64D6A471A2A5EDAC8F87176CEB651A090C9D19F153">
-    <pdf_title>Evolutionary Dynamics: Exploring the Equations of Life</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="8AA39D996D8C5E1DDF1D64D6A471A2A5EDAC8F87176CEB651A090C9D19F153"/>
 <node TEXT="SeMeCo_4901845502158887717.png" ID="ID_14098466" CREATED="1741254290979" MODIFIED="1741254290979">
 <hook URI="project://194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/SeMeCo_4901845502158887717.png" SIZE="1.0" NAME="ExternalObject"/>
 </node>
@@ -483,9 +440,7 @@
 <attribute NAME="year" VALUE="2019"/>
 <attribute NAME="title" VALUE="A unified framework for analysis of individual-based models in ecology and beyond"/>
 <attribute NAME="authors" VALUE="Cornell, Stephen J. and Suprunenko, Yevhen F. and Finkelshtein, Dmitri and Somervuo, Panu and Ovaskainen, Otso"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E474C4DD21E3299E5EE194C29E23B83929EB48E4717AC03FD8A445FC724F">
-    <pdf_title>A unied framework for analysis of individual- based models in ecology and beyond</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E474C4DD21E3299E5EE194C29E23B83929EB48E4717AC03FD8A445FC724F"/>
 </node>
 <node TEXT="ferrer2008individual" ID="ID_1167810062" CREATED="1741255983254" MODIFIED="1741256002757" LINK="file:/C:/Users/jorge/Zotero/storage/CYZKHMET/Ferrer%20et%20al.%20-%202008%20-%20Individual-based%20Modelling%20An%20Essential%20Tool%20for%20.pdf">
 <attribute NAME="key" VALUE="ferrer2008individual"/>
@@ -493,9 +448,7 @@
 <attribute NAME="year" VALUE="2008"/>
 <attribute NAME="title" VALUE="Individual-based {Modelling}: {An} {Essential} {Tool} for {Microbiology}"/>
 <attribute NAME="authors" VALUE="Ferrer, Jordi and Prats, Clara and L&#xf3;pez, Daniel"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F463488927A582CC434B6C12E8C74D220F2D526A157578EB992F7EE80FBD5">
-    <pdf_title>Individual-based Modelling: An Essential Tool for Microbiology</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F463488927A582CC434B6C12E8C74D220F2D526A157578EB992F7EE80FBD5"/>
 </node>
 <node TEXT="hellweger2009bunch" ID="ID_178264042" CREATED="1741256012390" MODIFIED="1741256024029" LINK="file:/C:/Users/jorge/Zotero/storage/PYN4N3UC/v220y2009i1p8-22.html">
 <attribute NAME="key" VALUE="hellweger2009bunch"/>
@@ -530,9 +483,7 @@
 <attribute NAME="year" VALUE="2005"/>
 <attribute NAME="title" VALUE="A {Critical} {Review} of {Twenty} {Years}&#x2019; {Use} of the {Resource}&#xfffd;?{Ratio} {Theory}."/>
 <attribute NAME="authors" VALUE="Miller, Thomas&#xa0;E. and Burns, Jean&#xa0;H. and Munguia, Pablo and Walters, Eric&#xa0;L. and Kneitel, Jamie&#xa0;M. and Richards, Paul&#xa0;M. and Mouquet, Nicolas and Buckley, Hannah&#xa0;L."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B418C31F48549BCF6D33C19F4718AD86C1F7AD695FAD91360381B8991B482">
-    <pdf_title>A Critical Review of Twenty Years&#x2019; Use of the Resource&#x2010;Ratio Theory</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B418C31F48549BCF6D33C19F4718AD86C1F7AD695FAD91360381B8991B482"/>
 </node>
 <node TEXT="demazancourt2010resource" ID="ID_287555848" CREATED="1741243905885" MODIFIED="1741243986357" LINK="file:/C:/Users/jorge/Zotero/storage/H8CVIX9Z/De%20Mazancourt%20and%20Schwartz%20-%202010%20-%20A%20resource%20ratio%20theory%20of%20cooperation.pdf">
 <attribute NAME="key" VALUE="demazancourt2010resource"/>
@@ -540,9 +491,7 @@
 <attribute NAME="year" VALUE="2010"/>
 <attribute NAME="title" VALUE="A resource ratio theory of cooperation"/>
 <attribute NAME="authors" VALUE="De Mazancourt, Claire and Schwartz, Mark W."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1B772053F438BA1AC6CCF3CC5CE879B7F940662793133A37C93D253DECCC64B">
-    <pdf_title>A resource ratio theory of cooperation</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1B772053F438BA1AC6CCF3CC5CE879B7F940662793133A37C93D253DECCC64B"/>
 </node>
 </node>
 <node TEXT="maximum power principle (MPP)" ID="ID_872673321" CREATED="1741242920081" MODIFIED="1741244212402">
@@ -571,9 +520,7 @@
 <attribute NAME="year" VALUE="2008"/>
 <attribute NAME="title" VALUE="The {Microbial} {Engines} {That} {Drive} {Earth}&apos;s {Biogeochemical} {Cycles}"/>
 <attribute NAME="authors" VALUE="Falkowski, Paul G. and Fenchel, Tom and Delong, Edward F."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="50FBBC7C363DFD8A8D6930386F18959BD730B7FC437E238588FF3BECA748DEBE">
-    <pdf_title>Microbial Ecology</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="50FBBC7C363DFD8A8D6930386F18959BD730B7FC437E238588FF3BECA748DEBE"/>
 </node>
 <node TEXT="lotka1922contribution" ID="ID_1014142323" CREATED="1741244493386" MODIFIED="1741244668617" LINK="file:/C:/Users/jorge/Zotero/storage/GQCSBEZF/Lotka%20-%201922%20-%20Contribution%20to%20the%20Energetics%20of%20Evolution.pdf">
 <attribute NAME="key" VALUE="lotka1922contribution"/>
@@ -581,9 +528,7 @@
 <attribute NAME="year" VALUE="1922"/>
 <attribute NAME="title" VALUE="Contribution to the {Energetics} of {Evolution}*"/>
 <attribute NAME="authors" VALUE="Lotka, Alfred J."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="79B7AD35D475F92CE25B2B39FAED879063BAE0327578215B777B48302ED1">
-    <pdf_title>(in</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="79B7AD35D475F92CE25B2B39FAED879063BAE0327578215B777B48302ED1"/>
 </node>
 <node TEXT="sciubba2011what" ID="ID_312667294" CREATED="1741244671109" MODIFIED="1741244998418" LINK="file:/C:/Users/jorge/Zotero/storage/VMWJG89P/Sciubba%20-%202011%20-%20What%20did%20Lotka%20really%20say%20A%20critical%20reassessment.pdf">
 <attribute NAME="key" VALUE="sciubba2011what"/>
@@ -591,9 +536,7 @@
 <attribute NAME="year" VALUE="2011"/>
 <attribute NAME="title" VALUE="What did {Lotka} really say? {A} critical reassessment of the &#x201c;maximum power principle&#xfffd;?"/>
 <attribute NAME="authors" VALUE="Sciubba, Enrico"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D465E6E273776EB3F7CD894ABF166EDA55AC9781E848A1A5E89633D74F38EE4">
-    <pdf_title>Ecological Modelling</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D465E6E273776EB3F7CD894ABF166EDA55AC9781E848A1A5E89633D74F38EE4"/>
 </node>
 </node>
 <node TEXT="Black Queen hypothesis" FOLDED="true" ID="ID_694859446" CREATED="1739885296935" MODIFIED="1741245252464" MOVED="1741245048890"><richcontent TYPE="NOTE">
@@ -632,9 +575,7 @@
 <attribute NAME="year" VALUE="2015"/>
 <attribute NAME="title" VALUE="A general consumer-resource population model"/>
 <attribute NAME="authors" VALUE="Lafferty, Kevin D. and DeLeo, Giulio and Briggs, Cheryl J. and Dobson, Andrew P. and Gross, Thilo and Kuris, Armand M."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5CCAC385371408939F1ACC2CFD7A59DF61AECDCD901B38453B2118DB31830">
-    <pdf_title>A general consumer-resource population model</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5CCAC385371408939F1ACC2CFD7A59DF61AECDCD901B38453B2118DB31830"/>
 </node>
 <node TEXT="sachs2012origins" ID="ID_1453947100" CREATED="1741245697204" MODIFIED="1741245716286" LINK="file:/C:/Users/jorge/Zotero/storage/CUZZFWWR/Sachs%20and%20Hollowell%20-%202012%20-%20The%20Origins%20of%20Cooperative%20Bacterial%20Communities.pdf">
 <attribute NAME="key" VALUE="sachs2012origins"/>
@@ -642,9 +583,7 @@
 <attribute NAME="year" VALUE="2012"/>
 <attribute NAME="title" VALUE="The {Origins} of {Cooperative} {Bacterial} {Communities}"/>
 <attribute NAME="authors" VALUE="Sachs, J. L. and Hollowell, A. C."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1D58D820EEE5FEC5D74C75D3631DD088C4792E9A786BB84228ACEBC18C4A7965">
-    <pdf_title>The Origins of Cooperative Bacterial Communities</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1D58D820EEE5FEC5D74C75D3631DD088C4792E9A786BB84228ACEBC18C4A7965"/>
 </node>
 <node TEXT="oliveira2014evolutionary" ID="ID_25047150" CREATED="1741245718461" MODIFIED="1741245737611" LINK="file:/C:/Users/jorge/Zotero/storage/53MBKNXQ/Oliveira%20et%20al.%20-%202014%20-%20Evolutionary%20limits%20to%20cooperation%20in%20microbial%20co.pdf">
 <attribute NAME="key" VALUE="oliveira2014evolutionary"/>
@@ -652,9 +591,7 @@
 <attribute NAME="year" VALUE="2014"/>
 <attribute NAME="title" VALUE="Evolutionary limits to cooperation in microbial communities"/>
 <attribute NAME="authors" VALUE="Oliveira, Nuno M. and Niehus, Rene and Foster, Kevin R."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="7EA6B3DC76D6B8FED061B21AAC56B0A3CC0F9E2041C33FF96FC35AFBC6357F">
-    <pdf_title>Nuno M. Oliveira, Rene Niehus, and Kevin R. Foster</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="7EA6B3DC76D6B8FED061B21AAC56B0A3CC0F9E2041C33FF96FC35AFBC6357F"/>
 </node>
 <node TEXT="morris2012black" ID="ID_1635609302" CREATED="1739885343509" MODIFIED="1739885478737" LINK="file:/C:/Users/jorge/Zotero/storage/5KRSS6X8/Morris%20et%20al.%20-%202012%20-%20The%20Black%20Queen%20Hypothesis%20Evolution%20of%20Dependenc.pdf">
 <attribute NAME="key" VALUE="morris2012black"/>
@@ -662,9 +599,7 @@
 <attribute NAME="year" VALUE="2012"/>
 <attribute NAME="title" VALUE="The {Black} {Queen} {Hypothesis}: {Evolution} of {Dependencies} through {Adaptive} {Gene} {Loss}"/>
 <attribute NAME="authors" VALUE="Morris, J. Jeffrey and Lenski, Richard E. and Zinser, Erik R."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="8B908D75FE7376DA7284ECDFCB89A14DAEA9BB9F10B66076DC1BCE038A4A5E3">
-    <pdf_title>The Black Queen Hypothesis: Evolution of Dependencies through Adaptive Gene Loss</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="8B908D75FE7376DA7284ECDFCB89A14DAEA9BB9F10B66076DC1BCE038A4A5E3"/>
 </node>
 <node TEXT="cheater dilemma" ID="ID_1751527504" CREATED="1739886088102" MODIFIED="1739886094252">
 <node TEXT="travisano2004strategies" ID="ID_912886106" CREATED="1739886100258" MODIFIED="1739886251419" LINK="file:/C:/Users/jorge/Zotero/storage/GG9C8MQU/Travisano%20and%20Velicer%20-%202004%20-%20Strategies%20of%20microbial%20cheater%20control.pdf">
@@ -673,9 +608,7 @@
 <attribute NAME="year" VALUE="2004"/>
 <attribute NAME="title" VALUE="Strategies of microbial cheater control"/>
 <attribute NAME="authors" VALUE="Travisano, Michael and Velicer, Gregory J."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C36314E96AE5B722B3B6938B15A6B1B7A77D10FE2A146E3B51639758EB4AFD4">
-    <pdf_title>Strategies of microbial cheater control</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C36314E96AE5B722B3B6938B15A6B1B7A77D10FE2A146E3B51639758EB4AFD4"/>
 </node>
 <node TEXT="andersen2015long" ID="ID_1463332440" CREATED="1739886432581" MODIFIED="1739886441313" LINK="file:/C:/Users/jorge/Zotero/storage/NA9IDTA9/Andersen%20et%20al.%20-%202015%20-%20Long-term%20social%20dynamics%20drive%20loss%20of%20function%20i.pdf">
 <attribute NAME="key" VALUE="andersen2015long"/>
@@ -683,9 +616,7 @@
 <attribute NAME="year" VALUE="2015"/>
 <attribute NAME="title" VALUE="Long-term social dynamics drive loss of function in pathogenic bacteria"/>
 <attribute NAME="authors" VALUE="Andersen, Sandra Breum and Marvig, Rasmus Lykke and Molin, S&#xf8;ren and Krogh Johansen, Helle and Griffin, Ashleigh S."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="AEE5F5465AF05F87CB2670BA328A8CFE816A4EF33A3E97FA5D24E0526E62B77">
-    <pdf_title>Long-term social dynamics drive loss of function in pathogenic bacteria</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="AEE5F5465AF05F87CB2670BA328A8CFE816A4EF33A3E97FA5D24E0526E62B77"/>
 </node>
 <node TEXT="smith2019public" ID="ID_280282886" CREATED="1739886583522" MODIFIED="1739886742818" LINK="file:/C:/Users/jorge/Zotero/storage/2RR9G3H3/S0960982219302660.html">
 <attribute NAME="key" VALUE="smith2019public"/>
@@ -765,9 +696,7 @@
   </body>
 </html>
 </richcontent>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="85B63286DAFE626549E7BBAC8AB73EACF556787C6F1F86333AAEE984E45C10">
-    <pdf_title>HHS Public Access</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="85B63286DAFE626549E7BBAC8AB73EACF556787C6F1F86333AAEE984E45C10"/>
 </node>
 </node>
 </node>
@@ -852,9 +781,7 @@
 <attribute NAME="year" VALUE="2010"/>
 <attribute NAME="title" VALUE="What is flux balance analysis?"/>
 <attribute NAME="authors" VALUE="Orth, Jeffrey D. and Thiele, Ines and Palsson, Bernhard &#xd8;"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E7A3CE917DC5BC942F16102EDD8BEA35C0AC463B1E76326D5E2DD4512D08C">
-    <pdf_title>NIH Public Access</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E7A3CE917DC5BC942F16102EDD8BEA35C0AC463B1E76326D5E2DD4512D08C"/>
 </node>
 <node TEXT="bordbar2014constraint" ID="ID_171322465" CREATED="1741258364597" MODIFIED="1741258376298" LINK="file:/C:/Users/jorge/Zotero/storage/8BA3JCE7/Bordbar%20et%20al.%20-%202014%20-%20Constraint-based%20models%20predict%20metabolic%20and%20asso.pdf">
 <attribute NAME="key" VALUE="bordbar2014constraint"/>
@@ -862,9 +789,7 @@
 <attribute NAME="year" VALUE="2014"/>
 <attribute NAME="title" VALUE="Constraint-based models predict metabolic and associated cellular functions"/>
 <attribute NAME="authors" VALUE="Bordbar, Aarash and Monk, Jonathan M. and King, Zachary A. and Palsson, Bernhard O."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="56EA217BEEC2AD23823BA44FAC63204D32C29B3F80E1739E39CAF022C827C06E">
-    <pdf_title>Constraint-based models predict metabolic and associated cellular functions</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="56EA217BEEC2AD23823BA44FAC63204D32C29B3F80E1739E39CAF022C827C06E"/>
 </node>
 <node TEXT="mccloskey2013basic" ID="ID_1119137069" CREATED="1741258378431" MODIFIED="1741258394180" LINK="file:/C:/Users/jorge/Zotero/storage/SSC48TU7/McCloskey%20et%20al.%20-%202013%20-%20Basic%20and%20applied%20uses%20of%20genome&#x2010;scale%20metabolic%20n.pdf">
 <attribute NAME="key" VALUE="mccloskey2013basic"/>
@@ -872,9 +797,7 @@
 <attribute NAME="year" VALUE="2013"/>
 <attribute NAME="title" VALUE="Basic and applied uses of genome&#x2010;scale metabolic network reconstructions of {Escherichia} coli"/>
 <attribute NAME="authors" VALUE="McCloskey, Douglas and Palsson, Bernhard &#xd8; and Feist, Adam M"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F8369FE78B1D5A313B8549C993EAC466F082E9F20482229D81092BEF3D43EAF">
-    <pdf_title>Basic and applied uses of genome-scale metabolic network reconstructions of Escherichia coli</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F8369FE78B1D5A313B8549C993EAC466F082E9F20482229D81092BEF3D43EAF"/>
 </node>
 <node TEXT="obrien2015using" ID="ID_45670526" CREATED="1741258395790" MODIFIED="1741258411763" LINK="file:/C:/Users/jorge/Zotero/storage/ZZFEVL99/O&#x2019;Brien%20et%20al.%20-%202015%20-%20Using%20Genome-Scale%20Models%20to%20Predict%20Biological%20Ca.pdf">
 <attribute NAME="key" VALUE="obrien2015using"/>
@@ -882,9 +805,7 @@
 <attribute NAME="year" VALUE="2015"/>
 <attribute NAME="title" VALUE="Using {Genome}-{Scale} {Models} to {Predict} {Biological} {Capabilities}"/>
 <attribute NAME="authors" VALUE="O&#x2019;Brien, Edward J. and Monk, Jonathan M. and Palsson, Bernhard O."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D7A0C75D34D093A79BC74566A40FDFE941A4B5FEC91F46774BEFDDEC8">
-    <pdf_title>HHS Public Access</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D7A0C75D34D093A79BC74566A40FDFE941A4B5FEC91F46774BEFDDEC8"/>
 </node>
 </node>
 <node TEXT="Steady-state models" ID="ID_1647902611" CREATED="1741257030378" MODIFIED="1741258477483"><richcontent TYPE="NOTE">
@@ -950,9 +871,7 @@
 <attribute NAME="year" VALUE="2009"/>
 <attribute NAME="title" VALUE="Connecting extracellular metabolomic measurements to intracellular flux states in yeast"/>
 <attribute NAME="authors" VALUE="Mo, Monica L. and Palsson, Bernhard &#xd8; and Herrg&#xe5;rd, Markus J."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6464F6BDA3E16244EE75E275CEEAD20AA6CE5EBCD8258FCEBE51F47277EC">
-    <pdf_title>BMC Systems Biology</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6464F6BDA3E16244EE75E275CEEAD20AA6CE5EBCD8258FCEBE51F47277EC"/>
 </node>
 <node TEXT="szappanos2011integrated" ID="ID_232408154" CREATED="1741587139150" MODIFIED="1741587199020" LINK="file:/C:/Users/jorge/Zotero/storage/23V4L26R/Szappanos%20et%20al.%20-%202011%20-%20An%20integrated%20approach%20to%20characterize%20genetic%20int.pdf">
 <attribute NAME="key" VALUE="szappanos2011integrated"/>
@@ -960,9 +879,7 @@
 <attribute NAME="year" VALUE="2011"/>
 <attribute NAME="title" VALUE="An integrated approach to characterize genetic interaction networks in yeast metabolism"/>
 <attribute NAME="authors" VALUE="Szappanos, Bal&#xe1;zs and Kov&#xe1;cs, K&#xe1;roly and Szamecz, B&#xe9;la and Honti, Frantisek and Costanzo, Michael and Baryshnikova, Anastasia and Gelius-Dietrich, Gabriel and Lercher, Martin J. and Jelasity, M&#xe1;rk and Myers, Chad L. and Andrews, Brenda J. and Boone, Charles and Oliver, Stephen G. and P&#xe1;l, Csaba and Papp, Bal&#xe1;zs"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B370997C3B2CF54248AF5CE942CA68844E16CDEDA76B211A85C292A89FA7187">
-    <pdf_title>HHS Public Access</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B370997C3B2CF54248AF5CE942CA68844E16CDEDA76B211A85C292A89FA7187"/>
 </node>
 </node>
 <node TEXT="OptCom" ID="ID_529810234" CREATED="1741258454095" MODIFIED="1741261792665" LINK="file:/C:/Users/jorge/Zotero/storage/D699MAB3/Zomorrodi%20and%20Maranas%20-%202012%20-%20OptCom%20A%20Multi-Level%20Optimization%20Framework%20for%20t.pdf">
@@ -989,9 +906,7 @@
   </body>
 </html>
 </richcontent>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="60A263D3A5EDFEBE324091D81BEF5B40B8F486783463B9BCFF71F7F5C0D23A7C">
-    <pdf_title>OptCom: A Multi-Level Optimization Framework for the Metabolic Modeling and Analysis of Microbial Communities</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="60A263D3A5EDFEBE324091D81BEF5B40B8F486783463B9BCFF71F7F5C0D23A7C"/>
 </node>
 </node>
 <node TEXT="Dynamic models" ID="ID_600782113" CREATED="1741264087339" MODIFIED="1741264468668"><richcontent TYPE="NOTE">
@@ -1018,9 +933,7 @@
 <attribute NAME="year" VALUE="2014"/>
 <attribute NAME="title" VALUE="Dynamic flux balance analysis for synthetic microbial communities"/>
 <attribute NAME="authors" VALUE="Henson, Michael A. and Hanly, Timothy J."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E15C145916F8D315F8457FA14315A78834E288A8C2C4B75EE98A9A68FB78F3B">
-    <pdf_title>Dynamic flux balance analysis for synthetic microbial communities</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E15C145916F8D315F8457FA14315A78834E288A8C2C4B75EE98A9A68FB78F3B"/>
 </node>
 <node TEXT="Dynamic Multi-species Metabolic Modeling (DMMM)" ID="ID_245705841" CREATED="1741266076083" MODIFIED="1741267562329"><richcontent TYPE="NOTE">
 
@@ -1049,9 +962,7 @@
 <attribute NAME="year" VALUE="2011"/>
 <attribute NAME="title" VALUE="Genome-scale dynamic modeling of the competition between {Rhodoferax} and {Geobacter} in anoxic subsurface environments"/>
 <attribute NAME="authors" VALUE="Zhuang, Kai and Izallalen, Mounir and Mouser, Paula and Richter, Hanno and Risso, Carla and Mahadevan, Radhakrishnan and Lovley, Derek R."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="63771474AE1F6E22264DE79FF5521A09AF121F820B08948B9436A6324D3ABD">
-    <pdf_title>Genome-scale dynamic modeling of the competition between Rhodoferax and Geobacter in anoxic subsurface environments</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="63771474AE1F6E22264DE79FF5521A09AF121F820B08948B9436A6324D3ABD"/>
 </node>
 <node TEXT="SeMeCo_7895058447559414237.png" ID="ID_1776301558" CREATED="1741264507347" MODIFIED="1741264507347" MOVED="1741266114538">
 <hook URI="project://194DB44A387ATZLEQ3QF32K6QIXFESH782MQ/SeMeCo_7895058447559414237.png" SIZE="0.6944444" NAME="ExternalObject"/>
@@ -1072,9 +983,7 @@
 <attribute NAME="year" VALUE="2014"/>
 <attribute NAME="title" VALUE="d-{OptCom}: {Dynamic} {Multi}-level and {Multi}-objective {Metabolic} {Modeling} of {Microbial} {Communities}"/>
 <attribute NAME="authors" VALUE="Zomorrodi, Ali R. and Islam, Mohammad Mazharul and Maranas, Costas D."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1B90F9929DC22F246A3E27E99836F41A31E1ECC92B264BC41DAEA4C6145E692">
-    <pdf_title>dOptCom: Dynamic Multi-level and Multi-objective Metabolic Modeling of Microbial Communities</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1B90F9929DC22F246A3E27E99836F41A31E1ECC92B264BC41DAEA4C6145E692"/>
 </node>
 </node>
 </node>
@@ -1140,9 +1049,7 @@
 <attribute NAME="year" VALUE="2014"/>
 <attribute NAME="title" VALUE="Syntrophic exchange in synthetic microbial communities"/>
 <attribute NAME="authors" VALUE="Michael T. Mee and James J. Collins and George M. Church and Harris H. Wang"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CF62826A090548FDFC89BB033B0807B1C21C9AE636CD71CB37F28085CC183E">
-    <pdf_title>Michael T. Mee , James J. Collins , George M. Church , and Harris H. Wang</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CF62826A090548FDFC89BB033B0807B1C21C9AE636CD71CB37F28085CC183E"/>
 </node>
 </node>
 <node TEXT="metrics" FOLDED="true" ID="ID_58386615" CREATED="1739954880058" MODIFIED="1740142516183" MOVED="1741241672575">
@@ -1168,18 +1075,14 @@
   </body>
 </html>
 </richcontent>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6FCC173361416365B377E9BCC0FB7969C4957DF16EE6C739F5CDF7A76A6A2AA7">
-    <pdf_title>PERSPECTIvES</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6FCC173361416365B377E9BCC0FB7969C4957DF16EE6C739F5CDF7A76A6A2AA7"/>
 <node TEXT="germerodt2016pervasive" ID="ID_1809595599" CREATED="1741093621462" MODIFIED="1741093678410" LINK="file:/C:/Users/jorge/Zotero/storage/MJZWR54E/Germerodt%20et%20al.%20-%202016%20-%20Pervasive%20Selection%20for%20Cooperative%20Cross-Feeding%20.pdf">
 <attribute NAME="key" VALUE="germerodt2016pervasive"/>
 <attribute NAME="journal" VALUE="PLOS Computational Biology"/>
 <attribute NAME="year" VALUE="2016"/>
 <attribute NAME="title" VALUE="Pervasive {Selection} for {Cooperative} {Cross}-{Feeding} in {Bacterial} {Communities}"/>
 <attribute NAME="authors" VALUE="Germerodt, Sebastian and Bohl, Katrin and L&#xfc;ck, Anja and Pande, Samay and Schr&#xf6;ter, Anja and Kaleta, Christoph and Schuster, Stefan and Kost, Christian"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="4516D64F69997D8D785F10A1E74FA32153C1D269FF6A1D3152499454D488D49">
-    <pdf_title>Pervasive Selection for Cooperative Cross- Feeding in Bacterial Communities</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="4516D64F69997D8D785F10A1E74FA32153C1D269FF6A1D3152499454D488D49"/>
 </node>
 <node TEXT="harvey2014quantifying" ID="ID_1315210631" CREATED="1741093684639" MODIFIED="1741093880517" LINK="file:/C:/Users/jorge/Zotero/storage/4RV4A9P7/Harvey%20et%20al.%20-%202014%20-%20Quantifying%20the%20effects%20of%20the%20division%20of%20labor%20i.pdf">
 <attribute NAME="key" VALUE="harvey2014quantifying"/>
@@ -1187,9 +1090,7 @@
 <attribute NAME="year" VALUE="2014"/>
 <attribute NAME="title" VALUE="Quantifying the effects of the division of labor in metabolic pathways"/>
 <attribute NAME="authors" VALUE="Harvey, Emily and Heys, Jeffrey and Gedeon, Tom&#xe1;&#x161;"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5BA1BBBEFF55721CA2588B53AC0C9E471A28DD3FBFB4AD67386680F33D879">
-    <pdf_title>NIH Public Access</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5BA1BBBEFF55721CA2588B53AC0C9E471A28DD3FBFB4AD67386680F33D879"/>
 </node>
 <node TEXT="shou2007synthetic" ID="ID_799292367" CREATED="1741094570500" MODIFIED="1741094608307" LINK="file:/C:/Users/jorge/Zotero/storage/CHU4Z75G/Shou%20et%20al.%20-%202007%20-%20Synthetic%20cooperation%20in%20engineered%20yeast%20populati.pdf">
 <attribute NAME="key" VALUE="shou2007synthetic"/>
@@ -1197,9 +1098,7 @@
 <attribute NAME="year" VALUE="2007"/>
 <attribute NAME="title" VALUE="Synthetic cooperation in engineered yeast populations"/>
 <attribute NAME="authors" VALUE="Shou, Wenying and Ram, Sri and Vilar, Jose M. G."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="BA335792205E1CAACBCEE826FF6B4FFE11796AD5BF43118F42DEC7DD4DCCB811">
-    <pdf_title>Synthetic cooperation in engineered yeast populations</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="BA335792205E1CAACBCEE826FF6B4FFE11796AD5BF43118F42DEC7DD4DCCB811"/>
 </node>
 </node>
 <node TEXT="Necrosis" ID="ID_965843226" CREATED="1739954897944" MODIFIED="1739954899780"/>
@@ -1211,9 +1110,7 @@
 <attribute NAME="year" VALUE="2015"/>
 <attribute NAME="title" VALUE="Self-establishing communities enable cooperative metabolite exchange in a eukaryote"/>
 <attribute NAME="authors" VALUE="Campbell, Kate and Vowinckel, Jakob and M&#xfc;lleder, Michael and Malmsheimer, Silke and Lawrence, Nicola and Calvani, Enrica and Miller-Fleming, Leonor and Alam, Mohammad T and Christen, Stefan and Keller, Markus A and Ralser, Markus"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="86CEA16F5F1810EFD0DBBD5A1482D3F238E47DD128491727317FA6A2A7D0B5">
-    <pdf_title>Self-establishing communities enable cooperative metabolite exchange in a eukaryote</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="86CEA16F5F1810EFD0DBBD5A1482D3F238E47DD128491727317FA6A2A7D0B5"/>
 </node>
 <node TEXT="minimize the number of biochemical reactions" ID="ID_444067053" CREATED="1740138815199" MODIFIED="1740138891018">
 <hook NAME="FirstGroupNode"/>
@@ -1224,9 +1121,7 @@
 <attribute NAME="year" VALUE="2017"/>
 <attribute NAME="title" VALUE="The self-inhibitory nature of metabolic networks and its alleviation through compartmentalization"/>
 <attribute NAME="authors" VALUE="Alam, M.T. and Olin-Sandoval, V. and Stincone, A. and Keller, M.A. and Zelezniak, A. and Luisi, B.F. and Ralser, M."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="21A5D2BAFFCE16DDAEE9E8B29185042556F2B49E57F20CAFE1D23710A416">
-    <pdf_title>The self-inhibitory nature of metabolic networks and its alleviation through compartmentalization</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="21A5D2BAFFCE16DDAEE9E8B29185042556F2B49E57F20CAFE1D23710A416"/>
 </node>
 <node TEXT="physiological advance" ID="ID_120480424" CREATED="1740142463735" MODIFIED="1740142469367">
 <node TEXT="transcriptome" ID="ID_156865246" CREATED="1740142690392" MODIFIED="1740142796500">
@@ -1241,9 +1136,7 @@
 <attribute NAME="year" VALUE="2004"/>
 <attribute NAME="title" VALUE="Flux {Coupling} {Analysis} of {Genome}-{Scale} {Metabolic} {Network} {Reconstructions}"/>
 <attribute NAME="authors" VALUE="Burgard, Anthony P. and Nikolaev, Evgeni V. and Schilling, Christophe H. and Maranas, Costas D."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="3D45E86325F4FEE9F8B5524346D8AA28DA3726D5963E69590B1FEF22B6C361">
-    <pdf_title>Flux Coupling Analysis of Genome-Scale Metabolic Network Reconstructions</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="3D45E86325F4FEE9F8B5524346D8AA28DA3726D5963E69590B1FEF22B6C361"/>
 </node>
 </node>
 <node TEXT="gain biomass" ID="ID_348258241" CREATED="1740138860076" MODIFIED="1740138865856"/>
@@ -1266,7 +1159,7 @@
 <attribute NAME="authors" VALUE="Campbell, Kate and Herrera-Dominguez, Lucia and Correia-Melo, Clara and Zelezniak, Aleksej and Ralser, Markus"/>
 </node>
 </node>
-<node TEXT="Variables" FOLDED="true" ID="ID_1043610670" CREATED="1740142518715" MODIFIED="1740142521995" MOVED="1741241674685">
+<node TEXT="Variables" ID="ID_1043610670" CREATED="1740142518715" MODIFIED="1740142521995" MOVED="1741241674685">
 <node TEXT="flux coupling" ID="ID_1950152641" CREATED="1740142529242" MODIFIED="1740142536374">
 <node TEXT="campbell2018biochemical" ID="ID_1675451295" CREATED="1740138891015" MODIFIED="1740138919856" LINK="file:/C:/Users/jorge/Zotero/storage/JYWZUPNG/S2452310017301828.html">
 <hook NAME="SummaryNode"/>
@@ -1292,18 +1185,14 @@
 <attribute NAME="year" VALUE="2015"/>
 <attribute NAME="title" VALUE="Self-establishing communities enable cooperative metabolite exchange in a eukaryote"/>
 <attribute NAME="authors" VALUE="Campbell, Kate and Vowinckel, Jakob and M&#xfc;lleder, Michael and Malmsheimer, Silke and Lawrence, Nicola and Calvani, Enrica and Miller-Fleming, Leonor and Alam, Mohammad T and Christen, Stefan and Keller, Markus A and Ralser, Markus"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="86CEA16F5F1810EFD0DBBD5A1482D3F238E47DD128491727317FA6A2A7D0B5">
-    <pdf_title>Self-establishing communities enable cooperative metabolite exchange in a eukaryote</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="86CEA16F5F1810EFD0DBBD5A1482D3F238E47DD128491727317FA6A2A7D0B5"/>
 <node TEXT="zengler2018social" ID="ID_755491481" CREATED="1741092753912" MODIFIED="1741093220688" LINK="file:/C:/Users/jorge/Zotero/storage/UAH34HVA/Zengler%20and%20Zaramela%20-%202018%20-%20The%20social%20network%20of%20microorganisms%20&#x2014;%20how%20auxotro.pdf">
 <attribute NAME="key" VALUE="zengler2018social"/>
 <attribute NAME="journal" VALUE="Nature Reviews Microbiology"/>
 <attribute NAME="year" VALUE="2018"/>
 <attribute NAME="title" VALUE="The social network of microorganisms &#x2014; how auxotrophies shape complex communities"/>
 <attribute NAME="authors" VALUE="Zengler, Karsten and Zaramela, Livia S."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6FCC173361416365B377E9BCC0FB7969C4957DF16EE6C739F5CDF7A76A6A2AA7">
-    <pdf_title>PERSPECTIvES</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6FCC173361416365B377E9BCC0FB7969C4957DF16EE6C739F5CDF7A76A6A2AA7"/>
 </node>
 </node>
 </node>
@@ -1341,18 +1230,14 @@
 <attribute NAME="year" VALUE="2022"/>
 <attribute NAME="title" VALUE="{Microbial communities form rich extracellular metabolomes that foster metabolic interactions and promote drug tolerance}"/>
 <attribute NAME="authors" VALUE="Yu, Jason S. L. and Correia-Melo, Clara and Zorrilla, Francisco and Herrera-Dominguez, Luc{\&apos;{i}}a and Wu, Mary Y. and Hartl, Johannes and Campbell, Kate and Blasche, Sonja and Kreidl, Marco and Egger, Anna-Sophia and Messner, Christoph B. and Demichev, Vadim and Freiwald, Anja and M{\&quot;{u}}lleder, Michael and Howell, Michael and Berman, Judith and Patil, Kiran R. and Alam, Mohammad Tauqeer and Ralser, Markus"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="324B93397A6DC4DCA0EF3167F493F72912C7F27723847E62D571AD6B8DF955">
-    <pdf_title>Microbial communities form rich extracellular metabolomes that foster metabolic interactions and promote drug tolerance</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="324B93397A6DC4DCA0EF3167F493F72912C7F27723847E62D571AD6B8DF955"/>
 <node TEXT="yu2022microbial" ID="ID_699184736" CREATED="1739861989875" MODIFIED="1739954421453" LINK="file:/C:/Users/jorge/Downloads/s41564-022-01072-5.pdf">
 <attribute NAME="key" VALUE="yu2022microbial"/>
 <attribute NAME="journal" VALUE="Nature Microbiology"/>
 <attribute NAME="year" VALUE="2022"/>
 <attribute NAME="title" VALUE="{Microbial communities form rich extracellular metabolomes that foster metabolic interactions and promote drug tolerance}"/>
 <attribute NAME="authors" VALUE="Yu, Jason S. L. and Correia-Melo, Clara and Zorrilla, Francisco and Herrera-Dominguez, Luc{\&apos;{i}}a and Wu, Mary Y. and Hartl, Johannes and Campbell, Kate and Blasche, Sonja and Kreidl, Marco and Egger, Anna-Sophia and Messner, Christoph B. and Demichev, Vadim and Freiwald, Anja and M{\&quot;{u}}lleder, Michael and Howell, Michael and Berman, Judith and Patil, Kiran R. and Alam, Mohammad Tauqeer and Ralser, Markus"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="324B93397A6DC4DCA0EF3167F493F72912C7F27723847E62D571AD6B8DF955">
-    <pdf_title>Microbial communities form rich extracellular metabolomes that foster metabolic interactions and promote drug tolerance</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="324B93397A6DC4DCA0EF3167F493F72912C7F27723847E62D571AD6B8DF955"/>
 <node TEXT="" ID="ID_1892068840" CREATED="1739954355303" MODIFIED="1739954377011"><richcontent TYPE="NOTE">
 
 <html>
@@ -1444,9 +1329,7 @@
 <attribute NAME="year" VALUE="2015"/>
 <attribute NAME="title" VALUE="Self-establishing communities enable cooperative metabolite exchange in a eukaryote"/>
 <attribute NAME="authors" VALUE="Campbell, Kate and Vowinckel, Jakob and M&#xfc;lleder, Michael and Malmsheimer, Silke and Lawrence, Nicola and Calvani, Enrica and Miller-Fleming, Leonor and Alam, Mohammad T and Christen, Stefan and Keller, Markus A and Ralser, Markus"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="86CEA16F5F1810EFD0DBBD5A1482D3F238E47DD128491727317FA6A2A7D0B5">
-    <pdf_title>Self-establishing communities enable cooperative metabolite exchange in a eukaryote</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="86CEA16F5F1810EFD0DBBD5A1482D3F238E47DD128491727317FA6A2A7D0B5"/>
 <node TEXT="notes" ID="ID_1440360341" CREATED="1739954494581" MODIFIED="1740038879140"><richcontent TYPE="NOTE">
 
 <html>
@@ -1632,9 +1515,7 @@
 <attribute NAME="year" VALUE="2018"/>
 <attribute NAME="title" VALUE="The social network of microorganisms &#x2014; how auxotrophies shape complex communities"/>
 <attribute NAME="authors" VALUE="Zengler, Karsten and Zaramela, Livia S."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6FCC173361416365B377E9BCC0FB7969C4957DF16EE6C739F5CDF7A76A6A2AA7">
-    <pdf_title>PERSPECTIvES</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6FCC173361416365B377E9BCC0FB7969C4957DF16EE6C739F5CDF7A76A6A2AA7"/>
 <richcontent TYPE="NOTE">
 
 <html>
@@ -1674,7 +1555,7 @@
 <node TEXT="dsouza2014less" ID="ID_995773342" CREATED="1739884901341" MODIFIED="1739885128721" LINK="#ID_1632330690"/>
 </node>
 </node>
-<node TEXT="Definitions" FOLDED="true" POSITION="left" ID="ID_741049199" CREATED="1739831005484" MODIFIED="1739831014751">
+<node TEXT="Definitions" POSITION="left" ID="ID_741049199" CREATED="1739831005484" MODIFIED="1739831014751">
 <edge COLOR="#ff00ff"/>
 <node TEXT="SeMeCo" ID="ID_470823750" CREATED="1739861708683" MODIFIED="1740035972700" MOVED="1739886455694"><richcontent TYPE="NOTE">
 
@@ -1751,18 +1632,14 @@
 <attribute NAME="year" VALUE="2015"/>
 <attribute NAME="title" VALUE="Self-establishing communities enable cooperative metabolite exchange in a eukaryote"/>
 <attribute NAME="authors" VALUE="Campbell, Kate and Vowinckel, Jakob and M&#xfc;lleder, Michael and Malmsheimer, Silke and Lawrence, Nicola and Calvani, Enrica and Miller-Fleming, Leonor and Alam, Mohammad T and Christen, Stefan and Keller, Markus A and Ralser, Markus"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="86CEA16F5F1810EFD0DBBD5A1482D3F238E47DD128491727317FA6A2A7D0B5">
-    <pdf_title>Self-establishing communities enable cooperative metabolite exchange in a eukaryote</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="86CEA16F5F1810EFD0DBBD5A1482D3F238E47DD128491727317FA6A2A7D0B5"/>
 </node>
 <node TEXT="campbell2019self" ID="ID_1290687765" CREATED="1739861756370" MODIFIED="1739861933180" LINK="file:/C:/Users/jorge/Zotero/storage/UY9DCAW6/Campbell%20et%20al.%20-%202019%20-%20Self-Establishing%20Communities%20A%20Yeast%20Model%20to%20St.pdf">
 <attribute NAME="key" VALUE="campbell2019self"/>
 <attribute NAME="year" VALUE="2019"/>
 <attribute NAME="title" VALUE="Self-{Establishing} {Communities}: {A} {Yeast} {Model} to {Study} the {Physiological} {Impact} of {Metabolic} {Cooperation} in {Eukaryotic} {Cells}"/>
 <attribute NAME="authors" VALUE="Campbell, Kate and Correia-Melo, Clara and Ralser, Markus"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="AE1E5E69B45CC386D2DD95F7E125D77BE836E1DC139D7B5E4529B8154D509D">
-    <pdf_title>Chapter 16</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="AE1E5E69B45CC386D2DD95F7E125D77BE836E1DC139D7B5E4529B8154D509D"/>
 </node>
 </node>
 <node TEXT="Prototrophs" FOLDED="true" ID="ID_1046008663" CREATED="1739831195034" MODIFIED="1739833185259">
@@ -1789,9 +1666,7 @@
 <attribute NAME="year" VALUE="2020"/>
 <attribute NAME="title" VALUE="Metabolic and genetic basis for auxotrophies in {Gram}-negative species"/>
 <attribute NAME="authors" VALUE="Seif, Yara and Choudhary, Kumari Sonal and Hefner, Ying and Anand, Amitesh and Yang, Laurence and Palsson, Bernhard O."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="448F42DA67C22468CB88D9131EF736F0931AD96A7F3234748115BFB53B7916">
-    <pdf_title>Metabolic and genetic basis for auxotrophies in Gram-negative species</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="448F42DA67C22468CB88D9131EF736F0931AD96A7F3234748115BFB53B7916"/>
 </node>
 <node FOLDED="true" ID="ID_941133901" CREATED="1739831016348" MODIFIED="1739833110658" MOVED="1740035449269"><richcontent TYPE="NODE">
 
@@ -1834,9 +1709,7 @@
 <attribute NAME="year" VALUE="2005"/>
 <attribute NAME="title" VALUE="Algae acquire vitamin {B12} through a symbiotic relationship with bacteria"/>
 <attribute NAME="authors" VALUE="Croft, Martin T. and Lawrence, Andrew D. and Raux-Deery, Evelyne and Warren, Martin J. and Smith, Alison G."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="42E29072A120C45F67C3682748DC92AC567C24F8FFB1E4691AC741FC8DAD98">
-    <pdf_title>LETTERS</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="42E29072A120C45F67C3682748DC92AC567C24F8FFB1E4691AC741FC8DAD98"/>
 </node>
 <node TEXT="sieuwerts2010mixed" ID="ID_305857614" CREATED="1739832287415" MODIFIED="1739832426108" LINK="file:/C:/Users/jorge/Zotero/storage/3H6CY4VU/Sieuwerts%20et%20al.%20-%202010%20-%20Mixed-Culture%20Transcriptome%20Analysis%20Reveals%20the%20M.pdf">
 <attribute NAME="key" VALUE="sieuwerts2010mixed"/>
@@ -1844,9 +1717,7 @@
 <attribute NAME="year" VALUE="2010"/>
 <attribute NAME="title" VALUE="Mixed-{Culture} {Transcriptome} {Analysis} {Reveals} the {Molecular} {Basis} of {Mixed}-{Culture} {Growth} in {Streptococcus} thermophilus and {Lactobacillus} bulgaricus"/>
 <attribute NAME="authors" VALUE="Sieuwerts, Sander and Molenaar, Douwe and van Hijum, Sacha A. F. T. and Beerthuyzen, Marke and Stevens, Marc J. A. and Janssen, Patrick W. M. and Ingham, Colin J. and de Bok, Frank A. M. and de Vos, Willem M. and van Hylckama Vlieg, Johan E. T."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5DD4D7E1A4696B7F4A1E467A7F18DCF8AB2878D7F19ED9D7F81F318A95B2E5">
-    <pdf_title>Mixed-Culture Transcriptome Analysis Reveals the Molecular Basis of Mixed-Culture Growth in and &#x2020;</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5DD4D7E1A4696B7F4A1E467A7F18DCF8AB2878D7F19ED9D7F81F318A95B2E5"/>
 </node>
 <node TEXT="rodionova2012tagaturonatefructuronate" ID="ID_1458850629" CREATED="1739832429374" MODIFIED="1739833015619" LINK="file:/C:/Users/jorge/Zotero/storage/6PSVTEYA/Rodionova%20et%20al.%20-%202012%20-%20Tagaturonate&#x2013;fructuronate%20epimerase%20UxaE,%20a%20novel%20.pdf">
 <attribute NAME="key" VALUE="rodionova2012tagaturonatefructuronate"/>
@@ -1854,9 +1725,7 @@
 <attribute NAME="year" VALUE="2012"/>
 <attribute NAME="title" VALUE="Tagaturonate&#x2013;fructuronate epimerase {UxaE}, a novel enzyme in the hexuronate catabolic network in {Thermotoga} maritima"/>
 <attribute NAME="authors" VALUE="Rodionova, Irina A. and Scott, David A. and Grishin, Nick V. and Osterman, Andrei L. and Rodionov, Dmitry A."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B37DF6C5EBCCB6F18721BD2921FF0EA5779E18CEC9796EEC4336ED461BC49">
-    <pdf_title>HHS Public Access</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B37DF6C5EBCCB6F18721BD2921FF0EA5779E18CEC9796EEC4336ED461BC49"/>
 </node>
 <node TEXT="romine2017elucidation" ID="ID_1200778617" CREATED="1739832599207" MODIFIED="1739832823732" LINK="file:/C:/Users/jorge/Zotero/storage/7RYZIUWE/Romine%20et%20al.%20-%202017%20-%20Elucidation%20of%20roles%20for%20vitamin%20B12%20in%20regulation.pdf">
 <attribute NAME="key" VALUE="romine2017elucidation"/>
@@ -1864,9 +1733,7 @@
 <attribute NAME="year" VALUE="2017"/>
 <attribute NAME="title" VALUE="Elucidation of roles for vitamin {B12} in regulation of folate, ubiquinone, and methionine metabolism"/>
 <attribute NAME="authors" VALUE="Romine, Margaret F. and Rodionov, Dmitry A. and Maezato, Yukari and Anderson, Lindsey N. and Nandhikonda, Premchendar and Rodionova, Irina A. and Carre, Alexandre and Li, Xiaoqing and Xu, Chengdong and Clauss, Therese R. W. and Kim, Young-Mo and Metz, Thomas O. and Wright, Aaron T."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="49E0D54E11608B2E406CD6ED54F475C55BD6B8B9B8D4517C9C99C28D4D3EA158">
-    <pdf_title>Elucidation of roles for vitamin Bin regulation of folate, ubiquinone, and methionine metabolism</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="49E0D54E11608B2E406CD6ED54F475C55BD6B8B9B8D4517C9C99C28D4D3EA158"/>
 </node>
 <node TEXT="liu2018metabolic" ID="ID_1338854023" CREATED="1739832834277" MODIFIED="1739832987768" LINK="file:/C:/Users/jorge/Zotero/storage/PX876FQJ/s40168-017-0392-1.html">
 <attribute NAME="key" VALUE="liu2018metabolic"/>
@@ -1894,9 +1761,7 @@
 <attribute NAME="year" VALUE="2010"/>
 <attribute NAME="title" VALUE="Integrated multilaboratory systems biology reveals differences in protein metabolism between two reference yeast strains"/>
 <attribute NAME="authors" VALUE="Canelas, Andr&#xe9; B. and Harrison, Nicola and Fazio, Alessandro and Zhang, Jie and Pitk&#xe4;nen, Juha-Pekka and van den Brink, Joost and Bakker, Barbara M. and Bogner, Lara and Bouwman, Jildau and Castrillo, Juan I. and Cankorur, Ayca and Chumnanpuen, Pramote and Daran-Lapujade, Pascale and Dikicioglu, Duygu and van Eunen, Karen and Ewald, Jennifer C. and Heijnen, Joseph J. and Kirdar, Betul and Mattila, Ismo and Mensonides, Femke I. C. and Niebel, Anja and Penttil&#xe4;, Merja and Pronk, Jack T. and Reuss, Matthias and Salusj&#xe4;rvi, Laura and Sauer, Uwe and Sherman, David and Siemann-Herzberg, Martin and Westerhoff, Hans and de Winde, Johannes and Petranovic, Dina and Oliver, Stephen G. and Workman, Christopher T. and Zamboni, Nicola and Nielsen, Jens"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="8B1D2C12863360553CB5C06AB58D78B22D309D8158684A65FE16D5A4D69C4E">
-    <pdf_title>Integrated multilaboratory systems biology reveals differences in protein metabolism between two reference yeast strains</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="8B1D2C12863360553CB5C06AB58D78B22D309D8158684A65FE16D5A4D69C4E"/>
 </node>
 </node>
 <node TEXT="Role of Auxotrophic cells for metabolite availability" ID="ID_1400757909" CREATED="1739869368599" MODIFIED="1739869437110" MOVED="1739954150515">
@@ -1906,9 +1771,7 @@
 <attribute NAME="year" VALUE="2018"/>
 <attribute NAME="title" VALUE="The social network of microorganisms &#x2014; how auxotrophies shape complex communities"/>
 <attribute NAME="authors" VALUE="Zengler, Karsten and Zaramela, Livia S."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6FCC173361416365B377E9BCC0FB7969C4957DF16EE6C739F5CDF7A76A6A2AA7">
-    <pdf_title>PERSPECTIvES</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6FCC173361416365B377E9BCC0FB7969C4957DF16EE6C739F5CDF7A76A6A2AA7"/>
 </node>
 <node TEXT="dsouza2014less" ID="ID_1632330690" CREATED="1739869574675" MODIFIED="1741242107922" LINK="file:/C:/Users/jorge/Zotero/storage/X94QKHCE/D&apos;Souza%20et%20al.%20-%202014%20-%20Less%20Is%20More%20Selective%20Advantages%20Can%20Explain%20the.pdf">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="80" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1979377329" STARTINCLINATION="753;0;" ENDINCLINATION="753;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -1917,9 +1780,7 @@
 <attribute NAME="year" VALUE="2014"/>
 <attribute NAME="title" VALUE="Less {Is} {More}: {Selective} {Advantages} {Can} {Explain} the {Prevalent} {Loss} of {Biosynthetic} {Genes} in {Bacteria}"/>
 <attribute NAME="authors" VALUE="D&apos;Souza, Glen and Waschina, Silvio and Pande, Samay and Bohl, Katrin and Kaleta, Christoph and Kost, Christian"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="88B49E895AC184F9355CA668DB13EC43E3F257AF59C80B93E4FDDF448674">
-    <pdf_title>LESS IS MORE: SELECTIVE ADVANTAGES CAN EXPLAIN THE PREVALENT LOSS OF BIOSYNTHETIC GENES IN BACTERIA</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="88B49E895AC184F9355CA668DB13EC43E3F257AF59C80B93E4FDDF448674"/>
 </node>
 </node>
 <node TEXT="Metabolites" ID="ID_699707339" CREATED="1739951483455" MODIFIED="1740048231380"><richcontent TYPE="NOTE">
@@ -1949,9 +1810,7 @@
 <attribute NAME="year" VALUE="2012"/>
 <attribute NAME="title" VALUE="The compositional and evolutionary logic of metabolism"/>
 <attribute NAME="authors" VALUE="Braakman, Rogier and Smith, Eric"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DDBBF9667FE71CE9B812FFE973E237419B3BBE59B3F0D6EFA79F4573D3187D31">
-    <pdf_title>The compositional and evolutionary logic of metabolism</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DDBBF9667FE71CE9B812FFE973E237419B3BBE59B3F0D6EFA79F4573D3187D31"/>
 </node>
 <node TEXT="caetano2009origin" ID="ID_1061250762" CREATED="1739952102163" MODIFIED="1739952111538" LINK="file:/C:/Users/jorge/Zotero/storage/H83R7P2L/Caetano-Anoll&#xe9;s%20et%20al.%20-%202009%20-%20The%20origin%20and%20evolution%20of%20modern%20metabolism.pdf">
 <attribute NAME="key" VALUE="caetano2009origin"/>
@@ -1959,9 +1818,7 @@
 <attribute NAME="year" VALUE="2009"/>
 <attribute NAME="title" VALUE="The origin and evolution of modern metabolism"/>
 <attribute NAME="authors" VALUE="Caetano-Anoll&#xe9;s, Gustavo and Yafremava, Liudmila S. and Gee, Hannah and Caetano-Anoll&#xe9;s, Derek and Kim, Hee Shin and Mittenthal, Jay E."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F05410B1D4CB1EA6277353A9AC54F57881E83F826875F7AC98CDAF8834A83">
-    <pdf_title>The International Journal of Biochemistry &amp; Cell Biology</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F05410B1D4CB1EA6277353A9AC54F57881E83F826875F7AC98CDAF8834A83"/>
 </node>
 <node TEXT="pronk2002auxotrophic" ID="ID_212550162" CREATED="1739951775925" MODIFIED="1739951843740" LINK="file:/C:/Users/jorge/Zotero/storage/U47EFJAC/Pronk%20-%202002%20-%20Auxotrophic%20Yeast%20Strains%20in%20Fundamental%20and%20Appli.pdf">
 <attribute NAME="key" VALUE="pronk2002auxotrophic"/>
@@ -1969,9 +1826,7 @@
 <attribute NAME="year" VALUE="2002"/>
 <attribute NAME="title" VALUE="Auxotrophic {Yeast} {Strains} in {Fundamental} and {Applied} {Research}"/>
 <attribute NAME="authors" VALUE="Pronk, Jack T."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="AC71AF508A20DA6B557566C742652A9192D43F80767AB4F25239F558D7D4587">
-    <pdf_title>MINIREVIEWS</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="AC71AF508A20DA6B557566C742652A9192D43F80767AB4F25239F558D7D4587"/>
 </node>
 </node>
 <node TEXT="Interactions of microorganisms" ID="ID_51468947" CREATED="1739954042011" MODIFIED="1741092486592">
@@ -1995,9 +1850,7 @@
 <attribute NAME="year" VALUE="2017"/>
 <attribute NAME="title" VALUE="A communal catalogue reveals {Earth}&#x2019;s multiscale microbial diversity"/>
 <attribute NAME="authors" VALUE="Thompson, Luke R. and Sanders, Jon G. and McDonald, Daniel and Amir, Amnon and Ladau, Joshua and Locey, Kenneth J. and Prill, Robert J. and Tripathi, Anupriya and Gibbons, Sean M. and Ackermann, Gail and Navas-Molina, Jose A. and Janssen, Stefan and Kopylova, Evguenia and V&#xe1;zquez-Baeza, Yoshiki and Gonz&#xe1;lez, Antonio and Morton, James T. and Mirarab, Siavash and Zech Xu, Zhenjiang and Jiang, Lingjing and Haroon, Mohamed F. and Kanbar, Jad and Zhu, Qiyun and Jin Song, Se and Kosciolek, Tomasz and Bokulich, Nicholas A. and Lefler, Joshua and Brislawn, Colin J. and Humphrey, Gregory and Owens, Sarah M. and Hampton-Marcell, Jarrad and Berg-Lyons, Donna and McKenzie, Valerie and Fierer, Noah and Fuhrman, Jed A. and Clauset, Aaron and Stevens, Rick L. and Shade, Ashley and Pollard, Katherine S. and Goodwin, Kelly D. and Jansson, Janet K. and Gilbert, Jack A. and Knight, Rob"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B8AC5337453CC419955E2BE9F0093E42C29E7513E88295C495635E3D1245">
-    <pdf_title>ArTicLe</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B8AC5337453CC419955E2BE9F0093E42C29E7513E88295C495635E3D1245"/>
 </node>
 <node TEXT="YeastPathways" ID="ID_382463194" CREATED="1741624916929" MODIFIED="1741624952649" LINK="https://pathway.yeastgenome.org/"/>
 <node TEXT="techniques" ID="ID_1447229657" CREATED="1739863014569" MODIFIED="1739863018229">
@@ -2007,9 +1860,7 @@
 <attribute NAME="year" VALUE="2021"/>
 <attribute NAME="title" VALUE="Polarization of microbial communities between competitive and cooperative metabolism"/>
 <attribute NAME="authors" VALUE="Machado, Daniel and Maistrenko, Oleksandr M. and Andrejev, Sergej and Kim, Yongkyu and Bork, Peer and Patil, Kaustubh R. and Patil, Kiran R."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="63E836947DEDFFED04DAA12440CA41BEEABF5A3579BB929520E720C63F8D68">
-    <pdf_title>Polarization of microbial communities between competitive and cooperative metabolism</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="63E836947DEDFFED04DAA12440CA41BEEABF5A3579BB929520E720C63F8D68"/>
 <richcontent TYPE="NOTE">
 
 <html>
@@ -2031,9 +1882,7 @@
 <attribute NAME="year" VALUE="2009"/>
 <attribute NAME="title" VALUE="Connecting extracellular metabolomic measurements to intracellular flux states in yeast"/>
 <attribute NAME="authors" VALUE="Mo, Monica L. and Palsson, Bernhard &#xd8; and Herrg&#xe5;rd, Markus J."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6464F6BDA3E16244EE75E275CEEAD20AA6CE5EBCD8258FCEBE51F47277EC">
-    <pdf_title>BMC Systems Biology</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6464F6BDA3E16244EE75E275CEEAD20AA6CE5EBCD8258FCEBE51F47277EC"/>
 </node>
 <node TEXT="szappanos2011integrated" ID="ID_886587396" CREATED="1739863220110" MODIFIED="1739863375214" LINK="file:/C:/Users/jorge/Zotero/storage/23V4L26R/Szappanos%20et%20al.%20-%202011%20-%20An%20integrated%20approach%20to%20characterize%20genetic%20int.pdf">
 <attribute NAME="key" VALUE="szappanos2011integrated"/>
@@ -2041,9 +1890,7 @@
 <attribute NAME="year" VALUE="2011"/>
 <attribute NAME="title" VALUE="An integrated approach to characterize genetic interaction networks in yeast metabolism"/>
 <attribute NAME="authors" VALUE="Szappanos, Bal&#xe1;zs and Kov&#xe1;cs, K&#xe1;roly and Szamecz, B&#xe9;la and Honti, Frantisek and Costanzo, Michael and Baryshnikova, Anastasia and Gelius-Dietrich, Gabriel and Lercher, Martin J. and Jelasity, M&#xe1;rk and Myers, Chad L. and Andrews, Brenda J. and Boone, Charles and Oliver, Stephen G. and P&#xe1;l, Csaba and Papp, Bal&#xe1;zs"/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B370997C3B2CF54248AF5CE942CA68844E16CDEDA76B211A85C292A89FA7187">
-    <pdf_title>HHS Public Access</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B370997C3B2CF54248AF5CE942CA68844E16CDEDA76B211A85C292A89FA7187"/>
 </node>
 </node>
 <node TEXT="minimization of metabolic adjustment (MOMA)" ID="ID_1119672119" CREATED="1739863711965" MODIFIED="1739863852740" LINK="file:/C:/Users/jorge/Zotero/storage/Q2Z8EJYW/Segr&#xe8;%20et%20al.%20-%202002%20-%20Analysis%20of%20optimality%20in%20natural%20and%20perturbed%20me.pdf">
@@ -2052,9 +1899,7 @@
 <attribute NAME="year" VALUE="2002"/>
 <attribute NAME="title" VALUE="Analysis of optimality in natural and perturbed metabolic networks"/>
 <attribute NAME="authors" VALUE="Segr&#xe8;, Daniel and Vitkup, Dennis and Church, George M."/>
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D1E77EE88342DADB9F02CA2ADABCCD7FF77259F79EB6C52D94BE74CC43D5663">
-    <pdf_title>Analysis of optimality in natural and perturbed metabolic networks</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D1E77EE88342DADB9F02CA2ADABCCD7FF77259F79EB6C52D94BE74CC43D5663"/>
 </node>
 </node>
 </node>
