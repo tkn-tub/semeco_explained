@@ -1,14 +1,15 @@
 # Yeast cell Flux Balance Analysis (FBA)
 
-This repository provides code implementation to evaluate the metabolite fluxes using the COBRA toolbox.
+This repository provides code implementation to evaluate the metabolite fluxes within Yeast cells and using the COBRA toolbox.
 
 ## Description
 This project evaluates the FBA of a Protrophic Yeast cell model.
 The Yeast cell model, described in [1, Fig. 2a)], is included within the Matlab file `model_aux.mat` and in the xml file `model_aux.xml`; both files are a replica of the same Yeast cell.
 Within the file `model_aux.mat` we find the `model_aux` Matlab struct, which comprises the model of the metabolic reactions within the cell.
+
 The model is described with the following variables:
 
-Related to the model
+Related to the model:
 - `description`: Used to store a free‐text summary of the model. 
 This summary typically includes details such as: Organism or System (which organism or cell type the model represents), Version and Scope (The version of the model and what it covers), Purpose and Context (The intended use of the model, e.g., for metabolic engineering, gene essentiality analysis, etc.), References (Citations to publications or databases that describe or support the model).
 - `modelVersion`: Specify the version of the model reconstruction.
