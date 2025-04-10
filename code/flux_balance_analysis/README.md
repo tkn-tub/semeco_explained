@@ -18,6 +18,10 @@ This metadata is important for: Tracking Changes (It helps document updates, cor
 
 Related to FBA techniques:
 - `S` matrix: the stoichiometric matrix
+  - If a component of `S`, denoted as $S_{ij}$, is negative, metabolite $i$ is a reactant in reaction $j$, and the absolute value represents the amount consumed.​
+  - $S_{ij}>0$ denotes metabolite $i$ is a product in reaction $j$, and the absolute value represents the amount produced.​
+  - $S_{ij}=0$ denotes metabolite $i$ does not participate in reaction $j$.
+
 - `b`: Array of doubles for the accumulation (positive) or depletion (negative) of the corresponding metabolites.
 The value of '0' Indicates no concentration change.
 - `csense`: List of indicators whether the `b` vector is a lower bound ('G'), upper bound ('L'), or hard constraint 'E' for the metabolites. It is a cell array of char.
@@ -35,6 +39,11 @@ In some models it may be used as a catch‐all compartment when the precise loca
 - `metNames`: Cell array of strings that provides the full, human‐readable names for each metabolite in the model.
 Each entry in `metNames` corresponds to the metabolite identifier listed in the `mets` field, giving a clearer description of the metabolite (for example, "10_Formyltetrahydrofolate" instead of an abbreviated identifier like "AUXOSC10fthf").
 This field is useful for model visualization, reporting, and ensuring that users can easily interpret the metabolic components during analysis or when presenting results.
+The metabolites' names are also labeled with specific naming conventions such as
+  - '_c': for metabolites in the cytosol,
+  - '_e': for metabolites in the extracellular space, and
+  -  '_m' for metabolites in the mitochondria
+
 
 - `metFormulas`: Cell array of strings that contains the chemical formulas for each metabolite listed in the model's mets field.
 These formulas—expressed in standard chemical notation (e.g., "C6H12O6" for glucose)—provide the elemental composition of each metabolite.
